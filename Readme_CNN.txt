@@ -43,8 +43,8 @@ Load the CIFAR-10 dataset using the deep learning framework of your choice.
 Train the models using the respective scripts:
 bash
 Copy code
-python model1.py  # For Model 1
-python model2_3.py  # For Model 2&3
+python img_classification_model1.py  # For Model 1
+python img_classification_model2.py  # For Model 2&3
 
 Evaluate the models and compare the results.
 Future Work
